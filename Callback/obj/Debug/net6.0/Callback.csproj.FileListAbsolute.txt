@@ -1,0 +1,15 @@
+C:\Akash\Home Projects\Callback\Callback\bin\Debug\net6.0\Callback.exe
+C:\Akash\Home Projects\Callback\Callback\bin\Debug\net6.0\Callback.deps.json
+C:\Akash\Home Projects\Callback\Callback\bin\Debug\net6.0\Callback.runtimeconfig.json
+C:\Akash\Home Projects\Callback\Callback\bin\Debug\net6.0\Callback.dll
+C:\Akash\Home Projects\Callback\Callback\bin\Debug\net6.0\Callback.pdb
+C:\Akash\Home Projects\Callback\Callback\obj\Debug\net6.0\Callback.csproj.AssemblyReference.cache
+C:\Akash\Home Projects\Callback\Callback\obj\Debug\net6.0\Callback.GeneratedMSBuildEditorConfig.editorconfig
+C:\Akash\Home Projects\Callback\Callback\obj\Debug\net6.0\Callback.AssemblyInfoInputs.cache
+C:\Akash\Home Projects\Callback\Callback\obj\Debug\net6.0\Callback.AssemblyInfo.cs
+C:\Akash\Home Projects\Callback\Callback\obj\Debug\net6.0\Callback.csproj.CoreCompileInputs.cache
+C:\Akash\Home Projects\Callback\Callback\obj\Debug\net6.0\Callback.dll
+C:\Akash\Home Projects\Callback\Callback\obj\Debug\net6.0\refint\Callback.dll
+C:\Akash\Home Projects\Callback\Callback\obj\Debug\net6.0\Callback.pdb
+C:\Akash\Home Projects\Callback\Callback\obj\Debug\net6.0\Callback.genruntimeconfig.cache
+C:\Akash\Home Projects\Callback\Callback\obj\Debug\net6.0\ref\Callback.dll
